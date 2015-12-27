@@ -1,3 +1,6 @@
+# _**GIT WORLD**_
+Git World is a metaphorical game engine pondering the possibilities of a git-like management system in a sandbox game setup. Git World implements the concepts of cloning, resetting, rebasing, merging, committing, and many others. It also has status commands implemented, so as to make comparisons between repositories and non-canonical game saves. After a while, this system's commit history would be cooler than Terminator!
+
 # The 2013 GitHub Game Off is Over!
 
 See the [winners, runners up and honorable mentions](https://github.com/blog/1731-github-game-off-ii-winners).
